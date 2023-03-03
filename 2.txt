@@ -1,0 +1,9 @@
+leia C
+Leia F
+C=(f-32)/1,8
+escreva C
+Ou
+leia F
+leia c
+F=1,8*C+32
+escreva F
