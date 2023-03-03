@@ -1,0 +1,6 @@
+
+
+leia A
+Leia B
+A + B = c
+escreva C
