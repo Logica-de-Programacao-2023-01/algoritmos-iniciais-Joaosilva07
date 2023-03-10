@@ -10,3 +10,8 @@
 10	x = x - 1
 11
 12 escreva fat
+-----------------------------
+leia x 
+var produto = 1
+para todo numero de 1 até x faça:
+escreva produto
