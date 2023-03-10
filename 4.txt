@@ -1,11 +1,12 @@
-1.leia x
+1leia x
 2.fat = 1
-3. escreva um numero maior do que zero:
-4	leia x
-5	enquanto x < 1
-6
-7	enquanto x > 0
-8	fat= fat * x
-9	x = x - 1
-10
-11 escreva fat
+3 faça:  
+4  	escreva um numero maior do que zero:
+5     leia x
+6	enquanto x < 1
+7
+8	enquanto x > 0
+9	fat= fat * x
+10	x = x - 1
+11
+12 escreva fat
