@@ -9,3 +9,10 @@ para i de 1 até expoente faça
 	potencia = potencia * base
 
 escreva potencia
+-----------------------------------------
+leia x
+leia potencia 
+var resultado = x
+para todos os valores entre 1 e potencia, faça:
+	resultado = resultado * x
+escreva resultado
