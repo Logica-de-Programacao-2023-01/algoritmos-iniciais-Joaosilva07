@@ -1,0 +1,13 @@
+leia x
+primo = verdadeiro
+se x <= 1 entao
+	primo = falso
+
+para i de 2 ate a raiz quadrada de x faça
+	se n % i = 0 entao
+	primo = falso
+
+se primo = verdadeiro entao
+	escreva ''o numero e primo.''
+   senao
+	escreva ''o numero nao e primo.''
