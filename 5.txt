@@ -5,7 +5,6 @@ para cada elemento da lista faça
     se o elemento é igual ao valor procurado então
         indice = indice atual
         escreva indice
-        interrompa o loop
     fim se
 fim para
 se indice igual a -1 então
