@@ -1,0 +1,11 @@
+leia base
+leia expoente
+potencia = 1
+se o expoente < 0 então
+	base = 1 / base
+	expoente = -expoente
+
+para i de 1 até expoente faça
+	potencia = potencia * base
+
+escreva potencia
