@@ -1,0 +1,7 @@
+leia capital
+leia taxa
+leia tempo
+juros = capital * ((1 + taxa)^tempo - 1)
+montante = capital * (1 + taxa)^tempo
+escreva ''juros: '' + juros
+escreva ''Montante: '' + montante
