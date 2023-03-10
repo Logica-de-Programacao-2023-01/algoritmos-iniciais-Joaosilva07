@@ -1,0 +1,11 @@
+leia n
+leia lista
+leia pesos
+soma_notas = 0
+soma_pesos = 0
+para i de 0 até n-1 faça
+	soma_notas = soma_notas + (lista * pesos)
+	soma_pesos = soma_pesos + pesos
+
+media_ponderada = soma_notas / soma_pesos
+escreva ''A media ponderada e: '' + media_ponderada
