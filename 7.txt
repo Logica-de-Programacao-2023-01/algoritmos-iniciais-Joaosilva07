@@ -11,3 +11,10 @@ se primo = verdadeiro entao
 	escreva ''o numero e primo.''
    senao
 	escreva ''o numero nao e primo.''
+-------------------------------------------------------
+leia x
+para todos os valores entre 2 e x-1, faça:
+	se x/valor_atual tem o resto 0
+		entao escreva ''Nao e primo''
+		
+escreva ''E primo''
