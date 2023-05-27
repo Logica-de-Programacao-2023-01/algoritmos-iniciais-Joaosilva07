@@ -1,4 +1,0 @@
-leia base
-leia altura
-area = base * altura / 2
-escreva '' A area do triangulo e '' + area
